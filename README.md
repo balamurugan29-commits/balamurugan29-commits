@@ -1,67 +1,44 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Balamurugan%20B&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer%20%E2%80%A2%20Solutions%20Architect&descFontSize=20&descAlignY=62" width="100%" alt="Header" />
-</div>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Engineer;Enterprise+Solutions+%26+Backend+Architecture;Java+%E2%80%A2+TypeScript+%E2%80%A2+Node.js;Scalable+Web+Apps+%26+AI+Services" alt="Typing SVG" />
-  </a>
-</div>
+<!-- animated contribution graph: real data, boxes reveal cell by cell
+     (regenerated daily by .github/workflows/update-profile-art.yml) -->
 
-<p align="center">
-  <a href="mailto:balamurugankkl2905@gmail.com">
-    <img src="https://img.shields.io/badge/Email-balamurugankkl2905%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/balamurugan29-commits">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=balamurugan29-commits&color=38bdf8&style=for-the-badge" alt="Profile Views" />
-</p>
+<h3><code>bala@github ~ $ ./contributions.sh</code></h3>
 
----
+<img src="./contrib-heatmap.svg" width="860" alt="Balamurugan's GitHub contribution graph — auto-refreshed daily" />
 
-### 👨‍💻 About Me
+<br>
+<br>
 
-```yaml
-name: Balamurugan B
-role: Full Stack Software Engineer & Solutions Architect
-focus: Enterprise Applications, AI Services, Workflow Automation, High-Performance Systems
-core_stack: [Java, JavaScript, TypeScript, Node.js, Express, React, PostgreSQL, Docker]
-philosophy: "Write clean, scalable, and robust software that solves real-world business challenges."
-```
+<!-- ascii portrait (left) + streak/numbers card (right). both svgs are
+     840x880 so equal widths give equal heights.
+     portrait: python scripts/make_ascii_svg.py
+     stats:    python scripts/render_stats_svg.py (same daily workflow) -->
 
-- 🚀 **Building:** Scalable enterprise platforms, automated workflows, and intelligent banking AI services.
-- 🛠️ **Engineering:** High-performance backend architectures, distributed systems, and real-time operations tools.
-- 💡 **Passionate about:** Clean system design, modular software architecture, seamless user experiences, and automated tooling.
+<h3><code>bala@github ~ $ whoami</code></h3>
 
----
+<table>
+<tr>
+<td valign="top"><img src="./bala-ascii.svg" width="420" alt="Balamurugan B — ASCII portrait" /></td>
+<td valign="top"><img src="./stats.svg" width="420" alt="Balamurugan's GitHub streak and contribution stats — auto-refreshed daily" /></td>
+</tr>
+</table>
 
-### 🛠️ Tech Stack & Tooling
+<br>
+<br>
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,ts,js,react,html,css,tailwind,vite" alt="Frontend & Languages" /><br/>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,python,postgres,mongodb,mysql" alt="Backend & Databases" /><br/>
-    <img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,powershell" alt="DevOps & Tooling" />
-  </a>
-</div>
+<h3><code>bala@github ~ $ ./links.sh</code></h3>
 
-<br/>
+<p><b>Full Stack Software Engineer · Solutions Architect · AI Builder</b></p>
 
-<details>
-  <summary><b>🔍 Detailed Breakdown of Technologies</b></summary>
-  <br/>
+[![Email](https://img.shields.io/badge/Email-balamurugankkl2905%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balamurugankkl2905@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-balamurugan29--commits-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/balamurugan29-commits)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-balamurugan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 
-  - **Languages:** Java, TypeScript, JavaScript (ES6+), Python, SQL / T-SQL
-  - **Frontend:** React, Tailwind CSS, Vite, HTML5, CSS3, Responsive Web Design
-  - **Backend & APIs:** Node.js, Express.js, RESTful APIs, Microservices Architecture
-  - **Databases & Cloud:** PostgreSQL, MySQL, MongoDB, Docker, Cloud Services
-  - **DevOps & Workflow:** Git, GitHub, Linux, Postman, PowerShell, CI/CD Automation
-</details>
+<br>
+<br>
 
----
-
-### 🌟 Featured Projects
+<h3><code>bala@github ~ $ ./projects.sh</code></h3>
 
 <table>
   <tr>
@@ -150,8 +127,6 @@ philosophy: "Write clean, scalable, and robust software that solves real-world b
   </tr>
 </table>
 
----
+<br>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=100&section=footer" width="100%" alt="Footer" />
 </div>
