@@ -121,3 +121,4 @@ svg = "".join(parts)
 with open(OUT, "w") as f:
     f.write(svg)
 print("wrote", OUT, len(svg), "bytes;", CANVAS_W, "x", CANVAS_H)
+
